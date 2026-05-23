@@ -17,7 +17,7 @@ The Reading Log features:
 * a stylized log that resembles an old book checkout card
 * security limitations/ protections on the file
 
-The Reading Log can be found [at this link]([https://www.example.com](https://docs.google.com/spreadsheets/d/1WQmpQeFsIBTaT9w_wOUa4YqLNQOTRsa0MT1274ncWAo/edit?usp=drive_link)).
+[The Reading Log can be found at this link](https://docs.google.com/spreadsheets/d/1WQmpQeFsIBTaT9w_wOUa4YqLNQOTRsa0MT1274ncWAo/edit?usp=drive_link).
 
 # Samples Images
 <img width="813" height="652" alt="LogTab" src="https://github.com/user-attachments/assets/4d2d50d0-3bdd-457d-8ebe-0a6f53b8bf60" />
